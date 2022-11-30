@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\Seminary1\HEX3\bin\Debug\net6.0\HEX3.exe
+C:\Users\Alex\Documents\Seminary1\HEX3\bin\Debug\net6.0\HEX3.deps.json
+C:\Users\Alex\Documents\Seminary1\HEX3\bin\Debug\net6.0\HEX3.runtimeconfig.json
+C:\Users\Alex\Documents\Seminary1\HEX3\bin\Debug\net6.0\HEX3.dll
+C:\Users\Alex\Documents\Seminary1\HEX3\bin\Debug\net6.0\HEX3.pdb
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.AssemblyInfo.cs
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.dll
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\refint\HEX3.dll
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.pdb
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\HEX3.genruntimeconfig.cache
+C:\Users\Alex\Documents\Seminary1\HEX3\obj\Debug\net6.0\ref\HEX3.dll

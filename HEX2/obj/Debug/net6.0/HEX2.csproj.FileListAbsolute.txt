@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\Seminary1\HEX2\bin\Debug\net6.0\HEX2.exe
+C:\Users\Alex\Documents\Seminary1\HEX2\bin\Debug\net6.0\HEX2.deps.json
+C:\Users\Alex\Documents\Seminary1\HEX2\bin\Debug\net6.0\HEX2.runtimeconfig.json
+C:\Users\Alex\Documents\Seminary1\HEX2\bin\Debug\net6.0\HEX2.dll
+C:\Users\Alex\Documents\Seminary1\HEX2\bin\Debug\net6.0\HEX2.pdb
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.AssemblyInfo.cs
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.dll
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\refint\HEX2.dll
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.pdb
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\HEX2.genruntimeconfig.cache
+C:\Users\Alex\Documents\Seminary1\HEX2\obj\Debug\net6.0\ref\HEX2.dll
